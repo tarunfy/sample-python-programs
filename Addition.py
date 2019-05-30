@@ -1,4 +1,5 @@
 a=9
 b=18
 
-print(a+b)
+c = a + b
+print(c)
