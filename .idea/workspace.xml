@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6ecb675-a5e0-4656-8d72-f868865aebb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/if_else program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access_Granting_Program.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else program.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_else program.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/if_else program.py">
+        <entry file="file://$PROJECT_DIR$/loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="64">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -47,6 +46,7 @@
         <option value="$PROJECT_DIR$/Access_Granting_Program.py" />
         <option value="$PROJECT_DIR$/Access Granting program.py" />
         <option value="$PROJECT_DIR$/if_else program.py" />
+        <option value="$PROJECT_DIR$/loops.py" />
       </list>
     </option>
   </component>
@@ -61,7 +61,24 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld  " type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -70,7 +87,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if_else program">
+  <component name="RunManager" selected="Python.loops">
     <configuration name="Addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld  " />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if_else program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if_else program" type="PythonConfigurationType" factoryName="Python">
       <module name="HelloWorld  " />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,9 +212,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python">
+      <module name="HelloWorld  " />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.if_else program" />
         <item itemvalue="Python.fun" />
         <item itemvalue="Python.Right To Vote." />
         <item itemvalue="Python.HelloWorld" />
@@ -222,6 +260,8 @@
       <workItem from="1559324047550" duration="1490000" />
       <workItem from="1559325559462" duration="3301000" />
       <workItem from="1559468625193" duration="2053000" />
+      <workItem from="1559501768905" duration="3646000" />
+      <workItem from="1559725272990" duration="3414000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1559236463195</created>
@@ -297,18 +337,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10655000" />
+    <option name="totallyTimeSpent" value="17715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23787878" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.32736155" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.32288402" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,7 +357,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32736155" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.32736155" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32805756" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32736155" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -325,21 +366,21 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23787878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32736155" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.32467532" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32756132" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32736155" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32805756" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32736155" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,13 +402,16 @@
     <MESSAGE value="Sneek peek of if else program." />
     <MESSAGE value="if else program." />
     <MESSAGE value="simple program" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple program" />
+    <MESSAGE value="if else program" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;fun.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;fun.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld__$loops.coverage" NAME="loops Coverage Results" MODIFIED="1559728718347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$Addition.coverage" NAME="Addition Coverage Results" MODIFIED="1559239292238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$Right_To_Vote_.coverage" NAME="Right To Vote. Coverage Results" MODIFIED="1559239921956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1559239858144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HelloWorld__$if_else_program.coverage" NAME="if_else program Coverage Results" MODIFIED="1559501835338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloWorld__$if_else_program.coverage" NAME="if_else program Coverage Results" MODIFIED="1559727448967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$fun.coverage" NAME="fun Coverage Results" MODIFIED="1559472670430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -393,27 +437,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Access_Granting_Program.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Access Granting program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Access_Granting_Program.py" />
+    <entry file="file://$PROJECT_DIR$/fun.py" />
+    <entry file="file://$PROJECT_DIR$/Access Granting program.py" />
     <entry file="file://$PROJECT_DIR$/if_else program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
