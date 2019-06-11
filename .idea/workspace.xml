@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6ecb675-a5e0-4656-8d72-f868865aebb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Addition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import func..py" beforeDir="false" afterPath="$PROJECT_DIR$/import func..py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Addition.py">
+        <entry file="file://$PROJECT_DIR$/import func..py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#4#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -57,6 +53,7 @@
         <option value="$PROJECT_DIR$/loop ask password and name.py" />
         <option value="$PROJECT_DIR$/new while program.py" />
         <option value="$PROJECT_DIR$/Addition.py" />
+        <option value="$PROJECT_DIR$/import func..py" />
       </list>
     </option>
   </component>
@@ -121,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import func..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sys func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +290,7 @@
       <workItem from="1559725272990" duration="9317000" />
       <workItem from="1559912483055" duration="5829000" />
       <workItem from="1560263468938" duration="23000" />
-      <workItem from="1560263518598" duration="2111000" />
+      <workItem from="1560263518598" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1559236463195</created>
@@ -393,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559735726609</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="using import function">
+      <created>1560266434916</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560266434916</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31581000" />
+    <option name="totallyTimeSpent" value="31918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -442,11 +446,12 @@
     <MESSAGE value="if else program" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;fun.py" />
     <MESSAGE value="cool" />
-    <option name="LAST_COMMIT_MESSAGE" value="cool" />
+    <MESSAGE value="using import function" />
+    <option name="LAST_COMMIT_MESSAGE" value="using import function" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HelloWorld__$loops.coverage" NAME="loops Coverage Results" MODIFIED="1559735461950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HelloWorld__$Addition.coverage" NAME="Addition Coverage Results" MODIFIED="1560266366308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloWorld__$Addition.coverage" NAME="Addition Coverage Results" MODIFIED="1560266736096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$loop_ask_password_and_name.coverage" NAME="loop ask password and name Coverage Results" MODIFIED="1560264638378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$Right_To_Vote_.coverage" NAME="Right To Vote. Coverage Results" MODIFIED="1559239921956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1559239858144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -483,13 +488,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/new while program.py" />
-    <entry file="file://$PROJECT_DIR$/Addition.py">
+    <entry file="file://$PROJECT_DIR$/import func..py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#4#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="80">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
