@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6ecb675-a5e0-4656-8d72-f868865aebb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hellodfunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellofunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/hellofunc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellodfunc.py">
+        <entry file="file://$PROJECT_DIR$/hellofunc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-end-line="7" />
+            <state relative-caret-position="32">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -54,6 +52,7 @@
         <option value="$PROJECT_DIR$/Addition.py" />
         <option value="$PROJECT_DIR$/import func..py" />
         <option value="$PROJECT_DIR$/sys func.py" />
+        <option value="$PROJECT_DIR$/hellofunc.py" />
       </list>
     </option>
   </component>
@@ -118,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hellofunc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hellofunc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +290,7 @@
       <workItem from="1559912483055" duration="5829000" />
       <workItem from="1560263468938" duration="23000" />
       <workItem from="1560263518598" duration="3269000" />
-      <workItem from="1560348366436" duration="1856000" />
+      <workItem from="1560348366436" duration="2109000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1559236463195</created>
@@ -405,11 +404,32 @@
       <option name="project" value="LOCAL" />
       <updated>1560266841386</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="defining own function.">
+      <created>1560352728246</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560352728246</updated>
+    </task>
+    <task id="LOCAL-00018" summary="defining own function.">
+      <created>1560352840761</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560352840761</updated>
+    </task>
+    <task id="LOCAL-00019" summary="defining own function.">
+      <created>1560352857307</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560352857307</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34595000" />
+    <option name="totallyTimeSpent" value="34848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -456,11 +476,12 @@
     <MESSAGE value="cool" />
     <MESSAGE value="using import function" />
     <MESSAGE value="using import sys function" />
-    <option name="LAST_COMMIT_MESSAGE" value="using import sys function" />
+    <MESSAGE value="defining own function." />
+    <option name="LAST_COMMIT_MESSAGE" value="defining own function." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HelloWorld__$loops.coverage" NAME="loops Coverage Results" MODIFIED="1559735461950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HelloWorld__$Addition.coverage" NAME="Addition Coverage Results" MODIFIED="1560352333373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloWorld__$Addition.coverage" NAME="Addition Coverage Results" MODIFIED="1560352986443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$loop_ask_password_and_name.coverage" NAME="loop ask password and name Coverage Results" MODIFIED="1560264638378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$Right_To_Vote_.coverage" NAME="Right To Vote. Coverage Results" MODIFIED="1559239921956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HelloWorld__$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1559239858144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -497,10 +518,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/new while program.py" />
-    <entry file="file://$PROJECT_DIR$/hellodfunc.py">
+    <entry file="file://$PROJECT_DIR$/hellofunc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-end-line="7" />
+        <state relative-caret-position="32">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
